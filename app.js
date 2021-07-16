@@ -23,5 +23,5 @@ module.exports.options = {
   bodyLimit: 10485760,
   http2: true,
   return503OnClosing: false,
-  http2SessionTimeout: 1,
+  http2SessionTimeout: 0,
 }
