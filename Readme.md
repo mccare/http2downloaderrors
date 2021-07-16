@@ -1,3 +1,5 @@
+# FIXED: setting http2SessionTimeout from 1 to 0 on app.js solved the problem
+
 # Repository to reproduce http2 framing errors
 
 ## Failure case
