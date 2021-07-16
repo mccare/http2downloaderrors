@@ -4,7 +4,7 @@
 * run `yarn fastifyserver`
 * run `node performanceTest.js`
 
-Result on my machine (MacOS 11.4 Intel, node 14.7.2) will be curl code 16 errors (intermittent), code 16 being HTTP2 framing errors
+Result on my machine (MacOS 11.4 Intel, node 14.17.2) will be curl code 16 errors (intermittent), code 16 being HTTP2 framing errors
 
 
 ## Success case
